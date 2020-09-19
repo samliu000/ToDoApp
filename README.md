@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Added check boxes next to each item so user knows which tasks have been completed. This is good for when the user has completed an item on the todo list but does not want to delete it (now, they can just check it off and delete it later!).
 
 ## Video Walkthrough
 
